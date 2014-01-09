@@ -20,6 +20,7 @@ public class ProductoBean {
     }
 
     public ProductoBean(int id) {
+        this.id = id;
     }
 
     public int getId() {

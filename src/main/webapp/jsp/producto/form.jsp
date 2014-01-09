@@ -25,7 +25,7 @@
         </div>
     </div>
     <div class="control-group">
-        <label class="control-label"  for="inputPrecio">Segundo apellido:</label>
+        <label class="control-label"  for="inputPrecio">Precio:</label>
         <div class="controls">
             <input type="text" id="precio" name="precio" placeholder="precio" size="15" />
         </div>
